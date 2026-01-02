@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with a B.E. in Electronics and Communication Engineering from Anna University with First Class with Distinction.
+Graduated with a B.E. in Electronics and Communication Engineering from **Anna University** with First Class with Distinction.
