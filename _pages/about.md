@@ -26,5 +26,5 @@ latest_posts:
 **Vimal (விமல்)** is a PhD student at the University of Arizona, USA, advised by [Dr. Jyotikrishna Dass](https://jyotikrd.github.io/) and [Dr. Ravi Tandon](https://tandonravi.github.io/). Prior to this, he worked as a Systems Software Engineer in Edge AI and hardware at SandLogic Technologies, India.
 
 ___
-## Research Interest
-I'm working on improving AI efficiency through algorithmic optimization i.e., qunatization, pruning etc, compiler optimization and efficient hardware design. 
+### **Research Interest**
+He is working on improving AI inference efficiency through algorithmic and compiler optimizations, as well as the design of efficient hardware architectures. His prior work has focused on neural network compression via pruning algorithms, approximate and fixed-point computation for non-linear operations, and the development of end-to-end low-precision quantization pipelines.
