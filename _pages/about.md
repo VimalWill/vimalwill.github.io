@@ -28,9 +28,6 @@ latest_posts:
 ___
 ### **Research Interest**
 He is working on improving AI inference efficiency through algorithmic and compiler optimizations, as well as the design of efficient hardware architectures. His prior work has focused on neural network compression via pruning algorithms, approximate and fixed-point computation for non-linear operations, and the development of end-to-end low-precision quantization pipelines.
-
 <br>
 
-<div style="text-align: center;">
-<em>"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." - Alan Turing</em>
-</div>
+<p style="text-align:center;">"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." - Alan Turing</p>
