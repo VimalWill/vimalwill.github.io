@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-graduated-with-a-b-e-in-electronics-and-communication-engineering-from-anna-university-with-first-class-with-distinction",
+          title: 'Graduated with a B.E. in Electronics and Communication Engineering from Anna University with...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-sandlogic-technologies-as-a-system-software-engineer",
+          title: 'Joined SandLogic Technologies as a System Software Engineer',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-started-ph-d-in-electrical-and-computer-engineering-ece-as-a-herbold-fellow",
+          title: 'Started Ph.D. in Electrical and Computer Engineering (ECE) as a Herbold Fellow.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
