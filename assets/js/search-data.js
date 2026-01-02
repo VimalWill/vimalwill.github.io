@@ -453,6 +453,13 @@ ninja.data = [{
           window.open("mailto:%76%69%6D%61%6C%77%69%6C%6C%69%61%6D%39%39@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/vimal-william-6b24b0165", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
