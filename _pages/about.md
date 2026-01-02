@@ -28,3 +28,6 @@ latest_posts:
 ___
 ### **Research Interest**
 He is working on improving AI inference efficiency through algorithmic and compiler optimizations, as well as the design of efficient hardware architectures. His prior work has focused on neural network compression via pruning algorithms, approximate and fixed-point computation for non-linear operations, and the development of end-to-end low-precision quantization pipelines.
+
+___
+<div style="text-align: center;">Best By Email\LinkedIn</div>
