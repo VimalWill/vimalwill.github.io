@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**Vimal (விமல்)** is a PhD student at the University of Arizona, USA, and actively working with Prof. [Huanrui Yang](https://sites.google.com/view/huanrui-yang). Prior to this, he worked as a Systems Software Engineer in Edge AI and hardware at SandLogic Technologies, India.
+**Vimal (விமல்)** is a PhD student at the University of Arizona, USA, jointly advised by Prof. [Huanrui Yang](https://sites.google.com/view/huanrui-yang) and Prof. [Danella Zhao](https://ece.engineering.arizona.edu/faculty-staff/faculty/danella-zhao). Prior to this, he worked as a Systems Software Engineer in Edge AI and hardware at SandLogic Technologies, India.
 
 ___
 ### **Research Interest**
